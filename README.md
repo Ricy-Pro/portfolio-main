@@ -68,12 +68,16 @@ Email Copy Feature: Easily copy email addresses with Lottie animations.
 This project is deployed on Vercel. To deploy your own version:
 
 Push your code to a GitHub repository.
+
 Link the repository with Vercel.
+
 Configure the environment variables if needed.
+
 👤 About Me
 I'm Robert, a Computer Science student passionate about Software Development. This portfolio showcases my journey, projects, and experiences. Feel free to reach out for collaborations!
 
 📫 Contact
+
 Email: prodanrobert123@gmail.com
 LinkedIn: https://www.linkedin.com/in/robert-prodan/
 GitHub: https://github.com/Ricy-Pro/
