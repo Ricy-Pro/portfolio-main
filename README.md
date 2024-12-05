@@ -21,22 +21,39 @@ Prerequisites
 Make sure you have Node.js and npm installed:
 
 bash
+
 Copy code
+
 node -v
+
 npm -v
+
 Clone the Repository
+
 bash
+
 Copy code
-git clone https://github.com/yourusername/your-portfolio.git
+
+git clone https://github.com/Ricy-Pro/portfolio-main/
+
 cd your-portfolio
+
 Install Dependencies
+
 bash
+
 Copy code
+
 npm install
+
 Run the Development Server
+
 bash
+
 Copy code
+
 npm run dev
+
 Visit http://localhost:3000 to view the site in your browser.
 
 🌟 Features
