@@ -75,5 +75,5 @@ I'm Robert, a Computer Science student passionate about Software Development. Th
 
 📫 Contact
 Email: prodanrobert123@gmail.com
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/robert-prodan/)
-GitHub: [github.com/yourusername](https://github.com/Ricy-Pro/)
+LinkedIn: https://www.linkedin.com/in/robert-prodan/
+GitHub: https://github.com/Ricy-Pro/
