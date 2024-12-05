@@ -110,7 +110,7 @@ export const testimonials = [
    "I first met Robert during his first year of college, when I had the opportunity to teach him. He was always punctual, deeply engaged with the subject, and consistently submitted his assignments on time. Robert is a communicative and motivated individual, with a strong desire to grow and an excellent ability to collaborate with others. He stood out as one of my best students. For further details, feel free to contact me at ioan.daniel.pop@ubbcluj.ro",
     name: "Pop Ioan Daniel",
     title: "PhD Candidate in Artificial Intelligence at Babeș-Bolyai University",
-    img: "/pop.png",
+    img: "/pop.png"
   },
   
   
