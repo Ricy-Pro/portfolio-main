@@ -112,6 +112,13 @@ export const testimonials = [
     title: "PhD Candidate in Artificial Intelligence at Babeș-Bolyai University",
     img: "/pop.png"
   },
+    {
+    quote:
+   "Robert is a highly motivated and inquisitive individual who consistently demonstrated a strong passion for researching alternative solutions to challenges. His deep curiosity and willingness to explore different approaches set him apart. He consistently dove into complex problems with determination, never shying away from taking the extra step to fully understand the issue at hand. Robert's drive for excellence and his ability to think critically made him a standout student, and I have no doubt he will continue to succeed in all his future endeavors.",
+    name: "Petrescu Andrei",
+    title: "Data Scientist Sr. at Steelcase",
+    img: "/Petrescu.png"
+  },
 
   
   
